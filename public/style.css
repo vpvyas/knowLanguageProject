@@ -1,0 +1,13 @@
+.tablecontainer{
+    width: 400px;
+    margin:0 auto;
+    margin-top:20px;
+}
+.formcontiner{
+     width: 500px;
+     height: 500px;
+    margin:0 auto;
+    margin-top:20px;
+    background-color: rgb(255, 253, 248);
+    box-shadow: 10px 10px 10px #E2DFD2;
+}
